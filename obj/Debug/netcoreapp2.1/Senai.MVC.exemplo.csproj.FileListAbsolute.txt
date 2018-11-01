@@ -1,0 +1,11 @@
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\bin\Debug\netcoreapp2.1\Senai.MVC.exemplo.deps.json
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\bin\Debug\netcoreapp2.1\Senai.MVC.exemplo.runtimeconfig.json
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\bin\Debug\netcoreapp2.1\Senai.MVC.exemplo.runtimeconfig.dev.json
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\bin\Debug\netcoreapp2.1\Senai.MVC.exemplo.dll
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\bin\Debug\netcoreapp2.1\Senai.MVC.exemplo.pdb
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\obj\Debug\netcoreapp2.1\Senai.MVC.exemplo.csprojAssemblyReference.cache
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\obj\Debug\netcoreapp2.1\Senai.MVC.exemplo.csproj.CoreCompileInputs.cache
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\obj\Debug\netcoreapp2.1\Senai.MVC.exemplo.AssemblyInfoInputs.cache
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\obj\Debug\netcoreapp2.1\Senai.MVC.exemplo.AssemblyInfo.cs
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\obj\Debug\netcoreapp2.1\Senai.MVC.exemplo.dll
+C:\Users\50981737870\Documents\Senai.MVC.pratica\Senai.MVC.exemplo\obj\Debug\netcoreapp2.1\Senai.MVC.exemplo.pdb
